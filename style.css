@@ -1,0 +1,25 @@
+body{
+    background-color: #333333;
+    color: #ffffff;
+    font-weight: bold;
+    font-family: monospace;
+    text-align: center;
+}
+#score #speed{
+    display: inline-block;
+}
+
+div{
+    float: left;
+    font-size: 1.8em;
+}
+
+h1{
+    font-size: 3em;
+}
+
+#tetris{
+    margin: 0 auto;
+    display: block;
+    margin-top: 1.7em;
+}
